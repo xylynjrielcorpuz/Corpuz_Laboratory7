@@ -67,8 +67,8 @@ if User_Prelim_Grade <= 100 and User_Prelim_Grade >= 40:
                 print("Thank you!") 
                 
             elif User_GWA_final < 75:
-                GPA_9 = 5.00
-                print(f"The GPA of {User_Name} is {GPA_9:.2f}")  
+                GPA_10 = 5.00
+                print(f"The GPA of {User_Name} is {GPA_10:.2f}")  
                 print("Thank you!") 
             
             else:
