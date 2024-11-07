@@ -1,1 +1,0 @@
-# Corpuz_Laboratory7
